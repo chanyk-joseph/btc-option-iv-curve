@@ -1,0 +1,4 @@
+matplotlib==3.0.3
+numpy==1.16.2
+jsonrpcclient==4.0.2
+websockets==10.3
