@@ -4,6 +4,7 @@ Real Time IV Curve Construction For BTC Option Data From deribit.com
 ## Usage
 ```
 # Requirement: python > 3.7
+# Update the API secret(client_id, client_secret) in the python script
 
 $ pip install -r ./requirements.txt
 $ python test.py
